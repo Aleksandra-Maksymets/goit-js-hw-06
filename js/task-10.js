@@ -1,8 +1,8 @@
 // Elements references
 const refs = {
   input: document.querySelector("input"),
-  createBtn: document.querySelector('[data-creat"]'),
-  clearBtn: document.querySelector('[data-destroy"]'),
+  createBtn: document.querySelector("[data-create]"),
+  clearBtn: document.querySelector("[data-destroy]"),
   container: document.getElementById("boxes"),
 };
 
